@@ -337,8 +337,7 @@
                                     <p class="black-text">
                                         <i class="fa fa-quote-left"></i>
                                         <em>I wish all companies had people like you and everyone else that works for
-                                            Tanamo Inc. There’s no one on the planet that provides better,
-                                            more expert service. You’re one of the companies that we love to give
+                                            Tanamo Inc. You’re one of the companies that we love to give
                                             money!!!</em>
                                         <i class="fa fa-quote-right"></i><br> <strong>Evette.</strong>
                                     </p>
@@ -428,21 +427,14 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
 
+<script src="public/js/jquery.waypoints.min.js"></script>
+<script src="public/js/jquery.countup.js"></script>
 
 <script type="text/javascript">
-    // crisp
-    window.$crisp = [];
-    window.CRISP_WEBSITE_ID = "b33330d2-f1ff-444d-95c2-0cc973365821";
-    (function () {
-        d = document;
-        s = d.createElement("script");
-        s.src = "https://client.crisp.chat/l.js";
-        s.async = 1;
-        d.getElementsByTagName("head")[0].appendChild(s);
-    })();
 
 
     new WOW().init();
+
 
     $(function () {
         $("#footer").load("views/footer.html");
@@ -539,14 +531,21 @@
     });
 
 
+    // crisp
+    window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "b33330d2-f1ff-444d-95c2-0cc973365821";
+    (function () {
+        d = document;
+        s = d.createElement("script");
+        s.src = "https://client.crisp.chat/l.js";
+        s.async = 1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+    })();
+
     $('.counter').countUp();
 
 
 </script>
-
-
-<script src="public/js/jquery.waypoints.min.js"></script>
-<script src="public/js/jquery.countup.js"></script>
 
 
 <!------------------------------------------Ends------------------------->
