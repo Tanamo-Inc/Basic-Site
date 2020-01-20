@@ -1,12 +1,12 @@
 # Tanamo Inc GH v.1.0.0
-A basic Website for <a class="btn btn-cta-primary" href='https://webs-225fd.firebaseapp.com/' target="_blank">Tanamo Inc GH</a>
+A basic Website for <a class="btn btn-cta-primary" href='https://tanamo-inc.github.io/Home/' target="_blank">Tanamo Inc GH</a>
 
 
 
 ## Help
 For help,email **tanamoinc@gmail.com.**
 
- <a class="btn btn-cta-primary" href='https://play.google.com/store/search?q=tanamo%20inc&c=apps' target="_blank">More App From Us</a>
+ <a class="btn btn-cta-primary" href='https://play.google.com/store/apps/dev?id=6168725719203408985' target="_blank">More App From Us</a>
 
 ## License
     Copyright 2017 Tanamo Inc.
