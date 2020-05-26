@@ -1,4 +1,4 @@
-# Tanamo Inc GH v.1.0.0
+# Basic Site
 A basic Website.
 
 
